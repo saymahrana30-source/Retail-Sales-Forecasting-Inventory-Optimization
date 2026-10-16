@@ -1,0 +1,13 @@
+item_id,item_name,category,avg_units_per_day,zero_day_share,promo_lift
+ITM001,Full Cream Milk 1L,Dairy,44.297,0.0,1.693
+ITM002,Fresh Curd 400g,Dairy,18.674,0.001,1.604
+ITM003,White Bread 400g,Bakery,25.916,0.0,1.542
+ITM004,Glucose Biscuits 150g,Snacks,32.931,0.0,1.363
+ITM005,Masala Chips 90g,Snacks,23.268,0.0,1.443
+ITM006,Instant Noodles 70g,Snacks,35.656,0.0,1.654
+ITM007,Cola 750ml,Beverages,23.003,0.0,1.57
+ITM008,Mixed Fruit Juice 1L,Beverages,6.84,0.022,1.573
+ITM009,Shampoo 340ml,Personal Care,5.223,0.027,1.704
+ITM010,Face Wash 100g,Personal Care,1.136,0.36,1.681
+ITM011,Detergent Powder 1kg,Household,5.751,0.026,1.555
+ITM012,Premium Trimmer,Personal Care,0.238,0.792,1.241

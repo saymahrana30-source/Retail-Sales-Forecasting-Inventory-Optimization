@@ -1,0 +1,37 @@
+segment_type,segment,method,rows,MAE,RMSE,MASE,WAPE_pct
+category,Bakery,Croston/SBA,336,10.852,15.255,0.811,38.565
+category,Bakery,Hybrid (final),336,9.926,13.445,0.743,35.273
+category,Bakery,ML model only,336,9.926,13.445,0.743,35.273
+category,Bakery,Seasonal naive,336,13.812,18.449,1.028,49.085
+category,Beverages,Croston/SBA,671,4.826,6.781,0.616,43.674
+category,Beverages,Hybrid (final),671,4.755,6.443,0.604,43.025
+category,Beverages,ML model only,671,4.755,6.443,0.604,43.025
+category,Beverages,Seasonal naive,671,5.979,8.404,0.759,54.107
+category,Dairy,Croston/SBA,661,12.331,18.206,0.749,38.059
+category,Dairy,Hybrid (final),661,11.49,16.272,0.699,35.464
+category,Dairy,ML model only,661,11.49,16.272,0.699,35.464
+category,Dairy,Seasonal naive,661,15.956,22.893,0.966,49.248
+category,Household,Croston/SBA,310,2.894,3.895,0.78,44.507
+category,Household,Hybrid (final),310,2.778,3.707,0.748,42.712
+category,Household,ML model only,310,2.778,3.707,0.748,42.712
+category,Household,Seasonal naive,310,3.935,5.145,1.056,60.516
+category,Personal Care,Croston/SBA,947,1.318,2.249,0.86,55.764
+category,Personal Care,Hybrid (final),947,1.28,2.156,0.845,54.152
+category,Personal Care,ML model only,947,1.285,2.152,0.867,54.382
+category,Personal Care,Seasonal naive,947,1.678,2.781,1.036,71.001
+category,Snacks,Croston/SBA,950,13.278,17.536,0.869,37.431
+category,Snacks,Hybrid (final),950,12.534,16.561,0.823,35.331
+category,Snacks,ML model only,950,12.534,16.561,0.823,35.331
+category,Snacks,Seasonal naive,950,18.477,24.085,1.204,52.085
+overall,All series,Croston/SBA,3875,7.689,12.748,0.79,39.08
+overall,All series,Hybrid (final),3875,7.252,11.726,0.756,36.857
+overall,All series,ML model only,3875,7.253,11.726,0.762,36.864
+overall,All series,Seasonal naive,3875,10.21,16.654,1.018,51.891
+pattern,intermittent,Croston/SBA,506,0.58,0.808,0.941,99.798
+pattern,intermittent,Hybrid (final),506,0.58,0.808,0.941,99.798
+pattern,intermittent,ML model only,506,0.59,0.792,0.983,101.554
+pattern,intermittent,Seasonal naive,506,0.69,1.055,1.079,118.707
+pattern,regular,Croston/SBA,3369,8.757,13.669,0.768,38.845
+pattern,regular,Hybrid (final),3369,8.254,12.572,0.729,36.614
+pattern,regular,ML model only,3369,8.254,12.572,0.729,36.614
+pattern,regular,Seasonal naive,3369,11.639,17.857,1.009,51.632

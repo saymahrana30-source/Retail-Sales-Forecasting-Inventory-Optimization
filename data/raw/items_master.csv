@@ -1,0 +1,13 @@
+item_id,item_name,category,brand,pack_size,shelf_life_days,base_price,unit_cost,lead_time_days,base_demand_per_day
+ITM001,Full Cream Milk 1L,Dairy,FreshFarm,1 L,7,66,52,2,38.0
+ITM002,Fresh Curd 400g,Dairy,FreshFarm,400 g,10,45,32,2,16.0
+ITM003,White Bread 400g,Bakery,BakeHouse,400 g,5,40,28,1,22.0
+ITM004,Glucose Biscuits 150g,Snacks,CrunchCo,150 g,180,25,17,4,28.0
+ITM005,Masala Chips 90g,Snacks,CrunchCo,90 g,150,20,13,4,20.0
+ITM006,Instant Noodles 70g,Snacks,NoodleNest,70 g,240,15,10,5,30.0
+ITM007,Cola 750ml,Beverages,FizzCo,750 ml,270,40,27,3,20.0
+ITM008,Mixed Fruit Juice 1L,Beverages,JuiceJoy,1 L,180,110,78,5,6.0
+ITM009,Shampoo 340ml,Personal Care,SilkCare,340 ml,730,240,170,7,4.5
+ITM010,Face Wash 100g,Personal Care,GlowSkin,100 g,730,180,115,10,1.0
+ITM011,Detergent Powder 1kg,Household,CleanPro,1 kg,1095,120,85,6,5.0
+ITM012,Premium Trimmer,Personal Care,ShaveTech,1 unit,1095,1499,1000,14,0.25

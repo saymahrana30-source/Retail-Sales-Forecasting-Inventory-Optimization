@@ -1,0 +1,10 @@
+store_id,store_city,item_id,item_name,recommended_order_qty,unit_cost,order_value_inr,order_date,expected_arrival_date
+S02,Delhi,ITM009,Shampoo 340ml,262,170.0,44540.0,2026-01-01,2026-01-08
+S02,Delhi,ITM004,Glucose Biscuits 150g,2135,17.0,36295.0,2026-01-01,2026-01-05
+S02,Delhi,ITM008,Mixed Fruit Juice 1L,401,78.0,31278.0,2026-01-01,2026-01-06
+S02,Delhi,ITM012,Premium Trimmer,27,1000.0,27000.0,2026-01-01,2026-01-15
+S04,Jaipur,ITM011,Detergent Powder 1kg,307,85.0,26095.0,2026-01-01,2026-01-07
+S03,Bengaluru,ITM012,Premium Trimmer,25,1000.0,25000.0,2026-01-01,2026-01-15
+S04,Jaipur,ITM012,Premium Trimmer,19,1000.0,19000.0,2026-01-01,2026-01-15
+S01,Mumbai,ITM010,Face Wash 100g,147,115.0,16905.0,2026-01-01,2026-01-11
+S03,Bengaluru,ITM010,Face Wash 100g,140,115.0,16100.0,2026-01-01,2026-01-11

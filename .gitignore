@@ -1,0 +1,21 @@
+# Python cache and test cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments (never commit these)
+.venv/
+venv/
+env/
+
+# Trained model files are large and are re-created by main.py
+models/*.joblib
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

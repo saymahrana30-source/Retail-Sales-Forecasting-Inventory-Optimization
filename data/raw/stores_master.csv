@@ -1,0 +1,5 @@
+store_id,store_city,cluster,footfall_base
+S01,Mumbai,Metro,1.2
+S02,Delhi,Metro,1.15
+S03,Bengaluru,Metro,1.0
+S04,Jaipur,Tier-2,0.75
